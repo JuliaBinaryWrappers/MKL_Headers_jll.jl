@@ -1,0 +1,42 @@
+[[MKL_Headers]]
+arch = "i686"
+git-tree-sha1 = "1b4ebd5bf15598b71ca5e0fc6e33fab04d829470"
+libc = "glibc"
+os = "linux"
+
+    [[MKL_Headers.download]]
+    sha256 = "1f05d67bd276cced21185f8c642856199f776716a0215f8c7e6c0d19f6062f2f"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2022.0.0+0/MKL_Headers.v2022.0.0.i686-linux-gnu.tar.gz"
+[[MKL_Headers]]
+arch = "i686"
+git-tree-sha1 = "843c61ded2e9636bfde6078b8497e504eb70fa83"
+os = "windows"
+
+    [[MKL_Headers.download]]
+    sha256 = "c2b806f703267270f63717799f9dd0d699049e30c89a7b2d0094feeaf55f8a65"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2022.0.0+0/MKL_Headers.v2022.0.0.i686-w64-mingw32.tar.gz"
+[[MKL_Headers]]
+arch = "x86_64"
+git-tree-sha1 = "d363cd074b77e0d11e0b1855ebfcfc895f70eb89"
+os = "macos"
+
+    [[MKL_Headers.download]]
+    sha256 = "87935a75e4c4cfe96b0add636feb3de03da910c7913aa8932dad224ba7269d93"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2022.0.0+0/MKL_Headers.v2022.0.0.x86_64-apple-darwin.tar.gz"
+[[MKL_Headers]]
+arch = "x86_64"
+git-tree-sha1 = "081b6f44bec90ef7fafee3f8a563df4da0a55517"
+libc = "glibc"
+os = "linux"
+
+    [[MKL_Headers.download]]
+    sha256 = "42be7a750a401176fbce2f0878726d63d53d3c235652160cb088a3b33a059155"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2022.0.0+0/MKL_Headers.v2022.0.0.x86_64-linux-gnu.tar.gz"
+[[MKL_Headers]]
+arch = "x86_64"
+git-tree-sha1 = "6dafeaa0a122731325024285acff6e4ab458980b"
+os = "windows"
+
+    [[MKL_Headers.download]]
+    sha256 = "739dcc4a46aa7cbf9cd98709f828ba58bb26a4a5891e0d709835e7b2b8fa6d14"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2022.0.0+0/MKL_Headers.v2022.0.0.x86_64-w64-mingw32.tar.gz"
