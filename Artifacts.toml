@@ -6,7 +6,7 @@ os = "linux"
 
     [[MKL_Headers.download]]
     sha256 = "dc1ca586a5fb013b0380d98a83d705b367866d29e5b42475dd85738194dc42df"
-    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2023.2.0+1/MKL_Headers.v2023.2.0.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2024.0.0+0/MKL_Headers.v2024.0.0.i686-linux-gnu.tar.gz"
 [[MKL_Headers]]
 arch = "i686"
 git-tree-sha1 = "0d43b712057c943dba18e0225accdcef2d7cdf3b"
@@ -14,7 +14,7 @@ os = "windows"
 
     [[MKL_Headers.download]]
     sha256 = "7dd4d5f44f8fec0f2270021bf279aede0120ad5c0d59bdcaef7441b02afc82d0"
-    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2023.2.0+1/MKL_Headers.v2023.2.0.i686-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2024.0.0+0/MKL_Headers.v2024.0.0.i686-w64-mingw32.tar.gz"
 [[MKL_Headers]]
 arch = "x86_64"
 git-tree-sha1 = "d565bb0d4f3c119797cab2753fe331efff92ee5e"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[MKL_Headers.download]]
     sha256 = "ccebb22930565832f61edb2e736c9839aa6dd575f3454ecd34d0662e5c7b43d1"
-    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2023.2.0+1/MKL_Headers.v2023.2.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2024.0.0+0/MKL_Headers.v2024.0.0.x86_64-linux-gnu.tar.gz"
 [[MKL_Headers]]
 arch = "x86_64"
 git-tree-sha1 = "3d923808fcbbfc46f831e4d799d3cc9ee478d5bc"
@@ -31,4 +31,4 @@ os = "windows"
 
     [[MKL_Headers.download]]
     sha256 = "b677cc96611e9085431f6f8a4cd0f4770ce65dedee27ed309a3810abc73f49a9"
-    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2023.2.0+1/MKL_Headers.v2023.2.0.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2024.0.0+0/MKL_Headers.v2024.0.0.x86_64-w64-mingw32.tar.gz"
