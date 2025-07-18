@@ -1,17 +1,17 @@
 [[MKL_Headers]]
 arch = "x86_64"
-git-tree-sha1 = "b15eed542f368000776510428a0451017d07dd3a"
+git-tree-sha1 = "b8bbfa57c9b64dbd06c74e4ed14a485eaef09d39"
 libc = "glibc"
 os = "linux"
 
     [[MKL_Headers.download]]
-    sha256 = "c316613d48d84c4b585e9bfa50fbaaf6919326d65d015ca954742e737439cca8"
-    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2025.0.1+0/MKL_Headers.v2025.0.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "679fcc6994421f139fdb9778aa1fd37964d74995d92497b7c656b4025422e428"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2025.2.0+0/MKL_Headers.v2025.2.0.x86_64-linux-gnu.tar.gz"
 [[MKL_Headers]]
 arch = "x86_64"
-git-tree-sha1 = "8c3629b56ea7bc8ff425167e78c6af326d212735"
+git-tree-sha1 = "7082f81eba5626db19cfb9ca8739c2f4d105d54b"
 os = "windows"
 
     [[MKL_Headers.download]]
-    sha256 = "7437a10bf800de1868cf1cf04f70501926585ebfe4f1138032fadb56b0fef76d"
-    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2025.0.1+0/MKL_Headers.v2025.0.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "606f453bb752599c741474e91a46069ce2c345f8180b6c1f1b8c2b7c44052480"
+    url = "https://github.com/JuliaBinaryWrappers/MKL_Headers_jll.jl/releases/download/MKL_Headers-v2025.2.0+0/MKL_Headers.v2025.2.0.x86_64-w64-mingw32.tar.gz"
